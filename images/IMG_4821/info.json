@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 55,
+    "height" : 55
+  }, {
+    "width" : 109,
+    "height" : 109
+  }, {
+    "width" : 218,
+    "height" : 218
+  }, {
+    "width" : 435,
+    "height" : 435
+  }, {
+    "width" : 869,
+    "height" : 869
+  }, {
+    "width" : 1738,
+    "height" : 1738
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1738,
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4821",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1738
+}
