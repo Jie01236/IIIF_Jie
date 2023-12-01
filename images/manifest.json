@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1853,
+    "id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4811/canvas/",
+    "label" : {
+      "none" : [ "IMG_4811" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4811/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4811/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 58,
+              "height" : 58
+            }, {
+              "width" : 116,
+              "height" : 116
+            }, {
+              "width" : 232,
+              "height" : 232
+            }, {
+              "width" : 464,
+              "height" : 464
+            }, {
+              "width" : 927,
+              "height" : 927
+            }, {
+              "width" : 1853,
+              "height" : 1853
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1853,
+            "@id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4811",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1853
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1853,
+          "id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4811/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1853
+        },
+        "target" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4811/canvas/"
+      } ]
+    } ],
+    "height" : 1853
+  }, {
     "width" : 2034,
     "id" : "https://Jie01236.github.io/IIIF_Jie/images/IMG_4816/canvas/",
     "label" : {
