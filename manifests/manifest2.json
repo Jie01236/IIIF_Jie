@@ -1,0 +1,261 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "winter holiday trip in Austria",
+  "viewingHint" : "individuals",
+  "metadata" : [ {
+    "label" : "Shooting Time",
+    "value" : "Winter 2023"
+  }, {
+    "label" : "Photographer",
+    "value" : "Brian Yi"
+  }, {
+    "label" : "Locations",
+    "value" : "Salzburg and Kitzbühel, Austria"
+  } ],
+  "description" : [ {
+    "@value" : "Some photos taken with a film camera while traveling in Austria during the winter holiday in 2023",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Credit to Brian Yi",
+  "sequences" : [ {
+    "@id" : "http://04df33d1-128f-417b-a340-09cb5c9db380",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://331aab46-d2fc-4c07-9052-21738ca6927c",
+      "@type" : "sc:Canvas",
+      "label" : "train station of Kitzbühel",
+      "height" : 1853,
+      "width" : 1853,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a610d296-9ecd-4c59-aa29-e8e03710e506",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4811/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4811",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1853,
+          "width" : 1853
+        },
+        "on" : "http://331aab46-d2fc-4c07-9052-21738ca6927c"
+      } ],
+      "related" : "",
+      "metadata" : [ ]
+    }, {
+      "@id" : "http://9b542dfa-4e1e-4086-8f21-b25027ba30b0",
+      "@type" : "sc:Canvas",
+      "label" : "snow scene in Salzburg",
+      "height" : 2034,
+      "width" : 2034,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://49314884-3b47-45cb-853c-bd234bc89410",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4816/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4816",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2034,
+          "width" : 2034
+        },
+        "on" : "http://9b542dfa-4e1e-4086-8f21-b25027ba30b0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ee1eef88-a931-4eba-9273-b51b09e4952f",
+      "@type" : "sc:Canvas",
+      "label" : "street view in Kitzbühel",
+      "height" : 1826,
+      "width" : 1826,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://845d7395-f9f4-4c64-bc70-aa70782af11c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4818/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4818",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1826,
+          "width" : 1826
+        },
+        "on" : "http://ee1eef88-a931-4eba-9273-b51b09e4952f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb",
+      "@type" : "sc:Canvas",
+      "label" : "colorful houses in Kitzbühel",
+      "height" : 1738,
+      "width" : 1738,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ca789388-0d77-49e2-b2bb-ab9cb82f29a6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4821/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4821",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1738,
+          "width" : 1738
+        },
+        "on" : "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://56791d72-d6db-4d6c-a4ad-abf140d97a82",
+      "@type" : "sc:Canvas",
+      "label" : "wooden house in Kitzbühel",
+      "height" : 2373,
+      "width" : 2373,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fdb39bd9-ba79-4867-afd0-a4147f7b8850",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4822/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4822",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2373,
+          "width" : 2373
+        },
+        "on" : "http://56791d72-d6db-4d6c-a4ad-abf140d97a82"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c",
+      "@type" : "sc:Canvas",
+      "label" : "bridge in Salzburg",
+      "height" : 1159,
+      "width" : 1159,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://78044730-0441-430e-81ce-6fced0f25a4a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4825/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4825",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1159,
+          "width" : 1159
+        },
+        "on" : "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e7a51078-76d6-47c1-80d0-f99af9ad546d",
+      "@type" : "sc:Canvas",
+      "label" : "street view in Salzburg",
+      "height" : 1645,
+      "width" : 1689,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9054b750-9cc8-4e53-907d-bb4cc5a4dd5b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4832/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jie01236.github.io/IIIF_Jie/images/IMG_4832",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1645,
+          "width" : 1689
+        },
+        "on" : "http://e7a51078-76d6-47c1-80d0-f99af9ad546d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/collection/range/salzburg",
+    "@type" : "sc:Range",
+    "label" : "Salzburg",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/collection/range/salzburg/1",
+      "@type" : "sc:Range",
+      "label" : "bridge in Salzburg",
+      "canvases" : [ "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c" ]
+    }, {
+      "@id" : "http://example.org/iiif/collection/range/salzburg/2",
+      "@type" : "sc:Range",
+      "label" : "street view in Salzburg",
+      "canvases" : [ "http://e7a51078-76d6-47c1-80d0-f99af9ad546d" ]
+    }, {
+      "@id" : "http://example.org/iiif/collection/range/salzburg/3",
+      "@type" : "sc:Range",
+      "label" : "snow scene in Salzburg",
+      "canvases" : [ "http://9b542dfa-4e1e-4086-8f21-b25027ba30b0" ]
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/collection/range/kitzbuhel",
+    "@type" : "sc:Range",
+    "label" : "Kitzbühel",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/collection/range/kitzbuhel/1",
+      "@type" : "sc:Range",
+      "label" : "train station of Kitzbühel",
+      "canvases" : [ "http://331aab46-d2fc-4c07-9052-21738ca6927c" ]
+    }, {
+      "@id" : "http://example.org/iiif/collection/range/kitzbuhel/2",
+      "@type" : "sc:Range",
+      "label" : "street view in Kitzbühel",
+      "canvases" : [ "http://ee1eef88-a931-4eba-9273-b51b09e4952f" ]
+    }, {
+      "@id" : "http://example.org/iiif/collection/range/kitzbuhel/3",
+      "@type" : "sc:Range",
+      "label" : "wooden house in Kitzbühel",
+      "canvases" : [ "http://56791d72-d6db-4d6c-a4ad-abf140d97a82" ]
+    }, {
+      "@id" : "http://example.org/iiif/collection/range/kitzbuhel/4",
+      "@type" : "sc:Range",
+      "label" : "colorful houses in Kitzbühel",
+      "canvases" : [ "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb" ]
+    } ]
+  } ]
+}
