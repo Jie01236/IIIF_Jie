@@ -1,0 +1,13 @@
+{
+  "id" : "https://Jie01236.github.io/IIIF_Jie/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Jie01236/IIIF_Jie project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json",
+    "label" : "winter holiday trip in Austria"
+  } ]
+}
