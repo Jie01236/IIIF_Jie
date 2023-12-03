@@ -3,6 +3,11 @@
   "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "winter holiday trip in Austria",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/151651468/bf68a0feece95c3a7e79bdaed281d685/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "viewingHint" : "individuals",
   "metadata" : [ {
     "label" : "Shooting Time",
@@ -51,6 +56,11 @@
           "width" : 1853
         },
         "on" : "http://331aab46-d2fc-4c07-9052-21738ca6927c"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/98e44dad8781a4eaa0f8bfde93e0ab9c.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : "",
       "metadata" : [ ]
