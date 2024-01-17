@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Jie01236.github.io/IIIF_Jie/annotations/anno_train.json" ],
+  "otherContent" : [ ],
   "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/collection.json",
   "label" : "All annotations loaded in Jie01236/IIIF_Jie project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
