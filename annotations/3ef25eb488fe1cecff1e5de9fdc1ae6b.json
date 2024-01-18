@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mozartsteg(Mozart Bridge)\nFilming locations for The&nbsp;Sound of Music&nbsp;around&nbsp;Mozartsteg",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mozartsteg(Mozart Bridge)</p>\n<p>Filming locations for The&nbsp;Sound of Music&nbsp;around&nbsp;Mozartsteg</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bridge",
+      "@type" : "oa:Tag",
+      "chars" : "bridge"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-01-18T16:52:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705596760049",
+    "dcterms:modified" : "2024-01-18T16:53:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=59,740,1027,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M59.31786,797.42737l1022.2733,8.47188l4.23594,-33.88751l-63.53909,-15.53178l-60.71513,-5.64792l-53.65523,-1.41198h-60.71513l-38.12345,7.0599l-31.06355,-2.82396l-43.77137,-8.47188l-39.53543,2.82396l-18.35574,1.41198l-45.18335,-2.82396h-45.18335h-43.77137l-35.29949,1.41198l-43.77137,5.64792l-32.47553,8.47188l-32.47553,-2.82396l-32.47553,-9.88386l-38.12345,-4.23594l-33.88751,-5.64792h-40.94741h-50.83127l-50.83127,4.23594l-49.41929,8.47188l-25.41563,8.47188l-16.94376,2.82396v25.41563z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_9128653a-c32f-49a1-b2db-60ab036fa28f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.47188\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"address\" href=\"https://www.google.com/maps/dir//Mozartsteg/@47.8009906,13.035333,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x477690620a070ad1:0x9084385c6644414c!2m2!1d13.0490193!2d47.799857?hl=en&amp;entry=ttu\" target=\"_blank\" rel=\"noopener\">address of&nbsp;Mozart Bridge",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"address\" href=\"https://www.google.com/maps/dir//Mozartsteg/@47.8009906,13.035333,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x477690620a070ad1:0x9084385c6644414c!2m2!1d13.0490193!2d47.799857?hl=en&amp;entry=ttu\" target=\"_blank\" rel=\"noopener\">address of&nbsp;</a>Mozart Bridge</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:44:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705596281913",
+    "dcterms:modified" : "2024-01-18T16:53:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=647,246,14,21"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M654.04158,266.75153c0,-4.7066 2.3533,-9.41321 7.0599,-14.1198c0,-3.89908 -3.16082,-7.0599 -7.0599,-7.0599c-3.89908,0 -7.0599,3.16082 -7.0599,7.0599c4.7066,4.7066 7.0599,9.41321 7.0599,14.1198z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_9c883658-ce23-4f2e-8b7a-9f360ca376e5\" fill=\"#ff0000\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.47188\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c"
+    } ]
+  } ],
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/3ef25eb488fe1cecff1e5de9fdc1ae6b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
