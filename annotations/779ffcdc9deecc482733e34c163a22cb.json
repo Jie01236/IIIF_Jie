@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">snowflakes under the streetlights",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">snowflakes under the streetlights</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:12:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705594370310",
+    "dcterms:modified" : "2024-01-18T16:12:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=441,701,1179,1050"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M613.5265,854.5153c108.89205,-88.18322 262.50193,-153.85028 416.8562,-153.77183v0v0c154.35427,0.07846 288.82273,61.50893 416.8562,153.77183c128.03347,92.2629 177.79845,232.85374 172.66749,371.23804c-5.13096,138.38429 -65.15788,274.56203 -172.66749,371.23804c-107.50961,96.67601 -262.50193,153.85028 -416.8562,153.77183c-154.35427,-0.07846 -308.07049,-57.40964 -416.8562,-153.77183c-108.78571,-96.36219 -172.6409,-231.75537 -172.66749,-371.23804c-0.02659,-139.48267 63.77544,-283.05481 172.66749,-371.23804z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_d403325f-1b33-489d-802f-af14287a2a25\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9b542dfa-4e1e-4086-8f21-b25027ba30b0"
+    } ]
+  } ],
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/779ffcdc9deecc482733e34c163a22cb.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
