@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mosaic",
+      "@type" : "oa:Tag",
+      "chars" : "mosaic"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred faces of pedestrians",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred faces of pedestrians</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:17:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705594641587",
+    "dcterms:modified" : "2024-01-18T16:17:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=98,1402,775,190"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M211.23414,1429.4752c71.54229,-15.97762 172.46428,-27.87562 273.87533,-27.8614v0v0c101.41105,0.01422 189.75709,11.1446 273.87533,27.8614c84.11824,16.7168 116.81393,42.18999 113.44288,67.26337c-3.37105,25.07339 -42.80885,49.74697 -113.44288,67.26337c-70.63402,17.5164 -172.46428,27.87562 -273.87533,27.8614c-101.41105,-0.01422 -202.40291,-10.40186 -273.87533,-27.8614c-71.47242,-17.45954 -113.42541,-41.99098 -113.44288,-67.26337c-0.01747,-25.2724 41.90059,-51.28575 113.44288,-67.26337z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_cb161fbc-539e-4f2d-a315-dab75760de4f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "colorful houses&nbsp;in commercial street\ncomparing with houses&nbsp;&nbsp;in residential areas\n<img src=\"https://live.staticflickr.com/65535/53467930967_c9a21a6e03_n.jpg\" alt=\"\" width=\"320\" height=\"320\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>colorful houses&nbsp;in commercial street</p>\n<p>comparing with houses&nbsp;&nbsp;in residential areas</p>\n<p><img src=\"https://live.staticflickr.com/65535/53467930967_c9a21a6e03_n.jpg\" alt=\"\" width=\"320\" height=\"320\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "houses",
+      "@type" : "oa:Tag",
+      "chars" : "houses"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-01-18T16:19:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705594742814",
+    "dcterms:modified" : "2024-01-18T16:27:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=165,20,1561,1660"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M379.03942,1077.29724l209.68415,-66.92047l31.22955,31.22955l187.37733,8.92273v-35.69092h-107.07276l71.38184,-214.14552l93.68866,8.92273l13.38409,-35.69092h31.22955l44.61365,-187.37733l120.45685,35.69092l49.07501,-240.91371h160.60914l187.37733,-361.37056h254.2978l-8.92273,1659.62775l-1356.25494,-133.84095l-178.4546,-44.61365l-17.84546,-200.76142l209.68415,-205.22279z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_712e0000-c787-4cce-bf00-809463fb607a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.76819\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb"
+    } ]
+  } ],
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/866805cc5553a2e0f4c8b22db61e9553.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
