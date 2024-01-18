@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mosaic",
+      "@type" : "oa:Tag",
+      "chars" : "mosaic"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred license plates and faces of pedestrians",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred license plates and faces of pedestrians</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:28:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705595324052",
+    "dcterms:modified" : "2024-01-18T16:28:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=886,1589,802,572"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1003.21785,1672.25727c74.05725,-48.02853 178.527,-83.79375 283.503,-83.75102v0v0c104.976,0.04273 196.42772,33.50052 283.503,83.75102c87.07529,50.25051 120.92035,126.82257 117.43079,202.19286c-3.48956,75.37028 -44.31373,149.53877 -117.43079,202.19286c-73.11706,52.65408 -178.527,83.79375 -283.503,83.75102c-104.976,-0.04273 -209.51808,-31.26786 -283.503,-83.75102c-73.98493,-52.48316 -117.41271,-126.22435 -117.43079,-202.19286c-0.01808,-75.9685 43.37354,-154.16432 117.43079,-202.19286z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_86687434-82d1-4d31-b702-2bac237db805\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56791d72-d6db-4d6c-a4ad-abf140d97a82"
+    } ]
+  } ],
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/fa951173102f3eaf6fda3719e1b296bd.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
