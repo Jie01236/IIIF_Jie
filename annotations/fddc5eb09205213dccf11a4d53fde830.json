@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mosaic",
+      "@type" : "oa:Tag",
+      "chars" : "mosaic"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred license plates",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred license plates</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:45:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705596345791",
+    "dcterms:modified" : "2024-01-18T16:45:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=131,1336,815,149"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M131.14907,1336.37223h407.63482v0h407.63482v74.58154v74.58154h-407.63482h-407.63482v-74.58154z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_48e31514-d64e-4a9f-9035-597bed4a2285\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e7a51078-76d6-47c1-80d0-f99af9ad546d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "bank",
+      "@type" : "oa:Tag",
+      "chars" : "bank"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-family: tahoma, sans-serif; text-align: justify; background-color: #f9f9f9;\">Bankhaus Sp&auml;ngler \n<span style=\"background-color: #f9f9f9; font-family: tahoma, sans-serif; text-align: justify;\">\"Bankhaus Sp&auml;ngler<span style=\"background-color: #f9f9f9; font-family: tahoma, sans-serif; text-align: justify;\">&nbsp;<span style=\"font-family: tahoma, sans-serif; text-align: justify; background-color: #f9f9f9;\">is a private bank from and in Salzburg and prides itself for being the oldest private bank of Austria.\"\n<span style=\"font-family: tahoma, sans-serif; text-align: justify; background-color: #f9f9f9;\">more information :&nbsp;<a href=\"https://www.visit-salzburg.net/sights/bankhaus-spaengler.htm\" target=\"_blank\" rel=\"noopener\">https://www.visit-salzburg.net/sights/bankhaus-spaengler.htm",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-family: tahoma, sans-serif; text-align: justify; background-color: #f9f9f9;\">Bankhaus Sp&auml;ngler </span></p>\n<p><span style=\"background-color: #f9f9f9; font-family: tahoma, sans-serif; text-align: justify;\">\"Bankhaus Sp&auml;ngler</span><span style=\"background-color: #f9f9f9; font-family: tahoma, sans-serif; text-align: justify;\">&nbsp;</span><span style=\"font-family: tahoma, sans-serif; text-align: justify; background-color: #f9f9f9;\">is a private bank from and in Salzburg and prides itself for being the oldest private bank of Austria.\"</span></p>\n<p><span style=\"font-family: tahoma, sans-serif; text-align: justify; background-color: #f9f9f9;\">more information :&nbsp;<a href=\"https://www.visit-salzburg.net/sights/bankhaus-spaengler.htm\" target=\"_blank\" rel=\"noopener\">https://www.visit-salzburg.net/sights/bankhaus-spaengler.htm</a></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:59:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705597196619",
+    "dcterms:modified" : "2024-01-18T16:59:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=113,1033,511,188"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M113.27349,1033.49429h255.68274v0h255.68274v94.2445v94.2445h-255.68274h-255.68274v-94.2445z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_60bf62f5-2b3e-45fb-8412-6229a266018f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e7a51078-76d6-47c1-80d0-f99af9ad546d"
+    } ]
+  } ],
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/fddc5eb09205213dccf11a4d53fde830.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
