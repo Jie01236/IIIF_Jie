@@ -89,6 +89,11 @@
         },
         "on" : "http://9b542dfa-4e1e-4086-8f21-b25027ba30b0"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/779ffcdc9deecc482733e34c163a22cb.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ee1eef88-a931-4eba-9273-b51b09e4952f",
