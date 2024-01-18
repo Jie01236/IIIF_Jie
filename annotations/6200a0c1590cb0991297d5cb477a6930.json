@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mosaic",
+      "@type" : "oa:Tag",
+      "chars" : "mosaic"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred faces of pedestrians",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">blurred faces of pedestrians</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:14:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705594490298",
+    "dcterms:modified" : "2024-01-18T16:14:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1121,1341,230,249"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1154.89236,1377.46775c21.26343,-20.91583 51.25895,-36.49114 81.39982,-36.47253v0v0c30.14087,0.01861 56.39863,14.58906 81.39982,36.47253c25.00119,21.88347 34.71884,55.22965 33.71691,88.05247c-1.00193,32.82282 -12.72343,65.12227 -33.71691,88.05247c-20.99348,22.9302 -51.25895,36.49114 -81.39982,36.47253c-30.14087,-0.01861 -60.15716,-13.61676 -81.39982,-36.47253c-21.24267,-22.85576 -33.71172,-54.96913 -33.71691,-88.05247c-0.00519,-33.08334 12.45348,-67.13664 33.71691,-88.05247z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_8b602db5-4f44-4716-8d05-a7089c686e7c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ee1eef88-a931-4eba-9273-b51b09e4952f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ski",
+      "@type" : "oa:Tag",
+      "chars" : "ski"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"caret-color: #374151; color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve; text-size-adjust: auto;\">Snow Equipment Rental Shop",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"caret-color: #374151; color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve; text-size-adjust: auto;\">Snow Equipment Rental Shop</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151651468",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-18T16:16:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1705594586218",
+    "dcterms:modified" : "2024-01-18T16:16:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Jie01236.github.io/IIIF_Jie/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1008,957,315,366"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1007.85783,957.31888h157.59391v0h157.59391v183.02369v183.02369h-157.59391h-157.59391v-183.02369z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_db88846e-6ccd-440e-ba02-704f9751043e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ee1eef88-a931-4eba-9273-b51b09e4952f"
+    } ]
+  } ],
+  "@id" : "https://Jie01236.github.io/IIIF_Jie/annotations/6200a0c1590cb0991297d5cb477a6930.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
