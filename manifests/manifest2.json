@@ -120,6 +120,11 @@
         },
         "on" : "http://ee1eef88-a931-4eba-9273-b51b09e4952f"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/6200a0c1590cb0991297d5cb477a6930.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb",
@@ -145,6 +150,11 @@
           "width" : 1738
         },
         "on" : "http://65ef4361-a53b-44e4-a536-67bb4b75c1bb"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/866805cc5553a2e0f4c8b22db61e9553.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -172,6 +182,11 @@
         },
         "on" : "http://56791d72-d6db-4d6c-a4ad-abf140d97a82"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/fa951173102f3eaf6fda3719e1b296bd.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c",
@@ -198,6 +213,11 @@
         },
         "on" : "http://ead5ba54-1317-49c5-b92a-4eb6cfcc061c"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/3ef25eb488fe1cecff1e5de9fdc1ae6b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://e7a51078-76d6-47c1-80d0-f99af9ad546d",
@@ -223,6 +243,11 @@
           "width" : 1689
         },
         "on" : "http://e7a51078-76d6-47c1-80d0-f99af9ad546d"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jie01236.github.io/IIIF_Jie/annotations/fddc5eb09205213dccf11a4d53fde830.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
